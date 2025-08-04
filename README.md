@@ -1,4 +1,4 @@
-Hi 👋 My name is Abdul-Azeez Mahmud-Ajeigbe
+Hi 👋 My name is Abdulazeez Mahmud-Ajeigbe
 ===========================================
 
 Web Developer/Data Scientist
