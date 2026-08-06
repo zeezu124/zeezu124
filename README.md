@@ -8,7 +8,7 @@ Trying to figure this life thing out. Code could help with that :)
 
 * 🌍  I'm based in Sheffield, United Kingdom
 * 🖥️  See my portfolio at [my data science portfolio](http://eportfolio.mygreatlearning.com/abdul-azeez-mahmud-ajeigbe)
-* ✉️  You can contact me at [zeezu124@gmail.com](mailto:aom.ajeigbe@gmail.com)
+* ✉️  You can contact me at [aom.ajeigbe@gmail.com](mailto:aom.ajeigbe@gmail.com)
 * 🤝  I'm open to collaborating on any interesting projects!
 
 ### Skills
