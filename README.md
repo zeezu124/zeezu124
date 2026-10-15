@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abdulazeez Mahmud-Ajeigbe
+# Hi there! I'm Abdulazeez Mahmud-Ajeigbe
 
 ### Software Engineer | .NET Developer | Data & AI Enthusiast
 
@@ -10,9 +10,9 @@ I enjoy taking real-world business problems, understanding the underlying workfl
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
-### 🏥 Bright Eyes Patient Management System
+### Bright Eyes Patient Management System
 Building an internal patient and clinic management system using:
 
 - .NET 10
@@ -26,7 +26,7 @@ Building an internal patient and clinic management system using:
 
 The system is being developed as a **feature-oriented modular monolith**, with a focus on maintainability, auditability, role-based access control, and pragmatic domain-driven design.
 
-### 🍞 Quba Bakery Inventory Management System
+### Quba Bakery Inventory Management System
 Designing and developing an inventory and production management system for a bakery.
 
 The system manages workflows including:
@@ -44,7 +44,7 @@ The system manages workflows including:
 
 Technology includes **.NET 10, Blazor, EF Core, PostgreSQL, Docker, ASP.NET Core Identity, xUnit and GitHub Projects**.
 
-### 🤖 AI & Data Engineering
+### AI & Data Engineering
 I'm also continuing to explore the intersection between software engineering, data science and AI, including:
 
 - LLM-powered applications
@@ -57,7 +57,7 @@ I'm also continuing to explore the intersection between software engineering, da
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Software Engineering
 
@@ -102,7 +102,7 @@ I'm also continuing to explore the intersection between software engineering, da
 
 ---
 
-## 💡 Areas I'm Interested In
+## Areas I'm Interested In
 
 - Backend and full-stack software engineering
 - .NET and ASP.NET Core
@@ -115,7 +115,7 @@ I'm also continuing to explore the intersection between software engineering, da
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 I'm always interested in collaborating on projects involving:
 
@@ -130,7 +130,7 @@ If you're working on something interesting, feel free to reach out.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - ✉️ [aom.ajeigbe@gmail.com](mailto:aom.ajeigbe@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-azeez-mahmud-ajeigbe/)
@@ -139,7 +139,7 @@ If you're working on something interesting, feel free to reach out.
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
 <a href="https://github.com/zeezu124" target="_blank" rel="noreferrer">
